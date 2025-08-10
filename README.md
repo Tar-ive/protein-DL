@@ -5,6 +5,19 @@
 
 **➡️ [Live Demo: Interactive Gradio Web App](https://huggingface.co/spaces/Tarive/protein_fold_hack_nation_ai)**
 
+Hugging Face Model Card: https://huggingface.co/Tarive/esm2_t12_35M_UR50D-finetuned-pfam-1k
+
+Hugging Face Dataset - 100k - https://huggingface.co/datasets/Tarive/within_family_test_set
+
+Hugging Face Dataset - 400k - https://huggingface.co/datasets/Tarive/quantafold
+
+Weights and Biases Tracker - 400k model - https://wandb.ai/tarive22-shivoham/huggingface/runs/n0g2n290?nw=nwusertarive22
+
+Weights and Biases Tracker - 100k model - https://wandb.ai/tarive22-shivoham/huggingface/runs/vklqmoh2?nw=nwusertarive22
+
+
+
+
 ## 📁 **Repository Structure & Visualizations**
 
 
