@@ -7,29 +7,6 @@
 
 ## 📁 **Repository Structure & Visualizations**
 
-### **GitHub Repository**
-```
-QuantaFold/
-├── models/
-│   ├── specialist_model_1k/          # 97.9% accuracy model
-│   ├── generalist_model_70k/         # Optimized training run
-│   └── generalist_model_400k/        # Full balanced dataset
-├── data/
-│   ├── pfam_processing_scripts/
-│   ├── balanced_dataset_400k/
-│   └── stratified_dataset_70k/
-├── images/
-│   ├── dataset_analysis.png          # Figure 1: Dataset distribution
-│   ├── length_distribution.png       # Figure 2: Sequence length analysis
-│   └── training_metrics/             # W&B screenshots
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│   └── results_analysis.ipynb
-└── deployment/
-    ├── gradio_app.py
-    └── requirements.txt
-```
 
 ### **Key Visualization URLs**
 - **Dataset Analysis:** `https://github.com/[your-repo]/QuantaFold/raw/main/images/dataset_analysis.png`
