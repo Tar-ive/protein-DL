@@ -9,9 +9,9 @@
 
 
 ### **Key Visualization URLs**
-- **Dataset Analysis:** `https://github.com/[your-repo]/QuantaFold/raw/main/images/dataset_analysis.png`
-- **Length Distribution:** `https://github.com/[your-repo]/QuantaFold/raw/main/images/length_distribution.png`
-- **Training Metrics:** `https://github.com/[your-repo]/QuantaFold/tree/main/images/training_metrics/`
+- **Dataset Analysis:** `1.jpg`
+- **Length Distribution:** `2.jpg`
+- **Training Metrics:** `visuals.png`
 
 ---
 
